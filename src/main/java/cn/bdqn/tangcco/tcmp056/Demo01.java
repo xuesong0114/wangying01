@@ -9,5 +9,7 @@ public class Demo01 {
     @Test
     public void Demo01() {
         System.out.println("HelloWorld");
+        System.out.println("你好 世界");
+
     }
 }
